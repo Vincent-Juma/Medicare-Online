@@ -1,0 +1,21 @@
+#Services {
+    background-image: url(/about_us.jpg);
+    width: 480px;
+    height: 300px;
+    float: inherit;
+    padding: 160px;
+    padding-top: 270px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 150px;
+}
+img {
+
+    float: right;
+}
+h1 {
+    color: rosybrown;
+}
+h2 {
+    color: brown;
+}
