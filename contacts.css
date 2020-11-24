@@ -1,0 +1,43 @@
+.contacts_card
+        {
+            text-align: center;
+            font-size: 18px;
+            display: inline-block;
+            width: 60%;
+            height: 539px;
+            background-color: grey;
+            opacity: 0.8;
+            padding: 55px;
+        }
+
+        .contacts_card form input
+        {
+            padding: 5px;
+            font-size: 17px;
+            border:none;
+            border-radius: 2px
+        }
+        .contacts_card form textarea
+        {
+            padding: 5px;
+            font-size: 17px;
+            border:none;
+            border-radius: 2px;
+            width:300px;
+            height: 100px;
+        }
+
+        .contacts_card form button
+        {
+            padding: 5px 15px;
+            font-size: 17px;
+            border:none;
+            border-radius: 2px;
+            font-weight:bold;
+        }
+        .contacts_card form button:hover
+        {
+            color: white;
+            background: green;
+            cursor: pointer;
+        }
