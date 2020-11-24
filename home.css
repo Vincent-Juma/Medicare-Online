@@ -1,0 +1,18 @@
+
+.eve {
+    padding-left: 650px;
+    padding-top: 270px;
+    font-size: x-large;
+}
+body {
+    background-image: url("./Home.jpg");
+    background-size: cover;
+#medi {
+    color:green;
+}
+.home {
+    padding-left: 20px;
+}
+.health {
+    color:rgb(52, 52, 119);
+}
