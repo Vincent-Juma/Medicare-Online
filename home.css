@@ -1,19 +1,35 @@
-
-.eve {
-    padding-left: 650px;
-    padding-top: 270px;
-    font-size: x-large;
-}
 body {
     background-image: url("./Home.jpg");
-    background-size: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 170px;
+    background-size: 690px;
+    margin-top: 500px;
+    
 }
+.eve {
+    position:center;
+    margin-top: -570px;
+    float:center;
+    padding-left: 630px;
+    padding-top: -200px;
+    text-emphasis-position: 40px;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 #medi {
     color:green;
+    font-weight: bold;
+    font-size: 40px;
 }
 .home {
     padding-left: 20px;
 }
 .health {
     color:rgb(52, 52, 119);
+}
+p {
+    font-family: sans-serif;
+    font-weight: bold;
 }
