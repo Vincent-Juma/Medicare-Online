@@ -3,8 +3,6 @@ h1{
     font-family: 'Times New Roman', Times, serif;
     font-style: italic;
     font-size: xx-large;
-    color: chartreuse;
-    background-color: yellow;
 
     
 }
@@ -14,7 +12,6 @@ p{
 }
 ol{
     color: black;
-    background-color: chartreuse;
     text-align: center;
 
 }
