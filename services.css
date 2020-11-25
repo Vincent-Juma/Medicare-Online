@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: xx-large;
+    color: chartreuse;
+    background-color: yellow;
+
+    
+}
+p{
+    color: maroon;
+    text-align: center;
+}
+ol{
+    color: black;
+    background-color: chartreuse;
+    text-align: center;
+
+}
+body { 
+    background-position: center center; 
+    background-size: 60% 100%; 
+    background-repeat: no-repeat;
+
+}
+.center{
+    margin: auto;
+    width: 60%;
+    border: 5px black;
+    padding: 10%;
+} 
+img{
+   float: center;
+}
