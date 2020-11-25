@@ -6,7 +6,8 @@
 }
 body {
     background-image: url("./Home.jpg");
-    background-size: cover;
+    background-size: fixed;
+}
 #medi {
     color:green;
 }
