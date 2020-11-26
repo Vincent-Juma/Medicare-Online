@@ -1,6 +1,5 @@
 body {
-    background-color: rgb(68, 56, 82);
-}
+    background-color: rgb(160, 159, 161);
 }
 nav ul{
    margin: 0;
@@ -12,11 +11,12 @@ nav li {
     display: inline-block;
     margin-left: 70px;
     padding-left: 200px;
-    background-color: cyan;
     padding-right: 30px;
+    padding-bottom: 50px;
+    font-size: 25px;
 }
 .medi {
-    color: rgb(106, 146, 67);
+    color: rgb(97, 123, 72);
     padding-top: 0px;
     font-size: 65px;
     padding-left: 170px;
@@ -41,7 +41,57 @@ p {
 
 }
 p {
-    padding-left: 240px
+    padding-left: 240px;
 
+}
+.online {
+    width:700px;
+    height:600px;
+    float:right;
+    background-image: url('./Home.jpg');
+    padding-left: 10px;
+    padding-top: 50px;
+}
+.online {
+    padding-top: 70px;
+    padding-left: 20px;
+}
+.yetu {
+    padding-left: 140px;
+    padding-top: 70px;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgb(33, 31, 33);
+}
+footer {
+    background-color:rgb(90, 53, 90);
+
+}
+h4 {
+    font-size: 29px;
+    padding-left: 250px;
+    padding-bottom: 0px;
+    padding-top:0px;
+}
+h6 {
+    padding-left: 0px;
+    padding-bottom: 0px;
+    font-family: serif;
+    font-weight: 500px;
+}
+.one {
+    background-color: rgb(92, 62, 175);
+    padding-bottom: 0px;
+    padding-left: 350px;
+    font-size: 15px;
+}
+.info {
+    display:inline-flex;
+    padding-left: 80px;
+}
+footer h6 #info {
+    font-size: 15px;
+    padding-left: 80px;
+    text-align: center;
 }
 
