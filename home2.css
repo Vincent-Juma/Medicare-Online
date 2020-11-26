@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(68, 56, 82);
+}
+}
+nav ul{
+   margin: 0;
+   padding: 0;
+   list-style: none;
+
+}
+nav li {
+    display: inline-block;
+    margin-left: 70px;
+    padding-left: 200px;
+    background-color: cyan;
+    padding-right: 30px;
+}
+.medi {
+    color: rgb(106, 146, 67);
+    padding-top: 0px;
+    font-size: 65px;
+    padding-left: 170px;
+}
+#health {
+    font-size: 50px;
+    padding-left: 220px;
+}
+p {
+    font-size: 30px;
+}
+#image {
+    float: right;
+    display: flex;
+}
+#image {
+    float:top;
+    padding-top: 0px;
+    padding-right: 150px;
+    height: 700px;
+    width: 1200;
+
+}
+p {
+    padding-left: 240px
+
+}
+
