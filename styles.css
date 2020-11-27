@@ -1,21 +1,52 @@
 #Services {
-    background-image: url(/about_us.jpg);
+    background-image: url("Images-Medicare/about_us.jpg");
     width: 480px;
     height: 300px;
-    float: inherit;
-    padding: 160px;
     padding-top: 270px;
     padding-left: 100px;
     padding-right: 100px;
     padding-bottom: 150px;
+    color: chocolate;
 }
 img {
 
-    float: right;
+    float: right;   
+    width: 1060px;
+    height: 720px;
 }
 h1 {
-    color: rosybrown;
+    color: rgb(255, 255, 0);
+    background-color: cornflowerblue;
 }
 h2 {
     color: brown;
 }
+nav {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 10px 0;
+    margin-right: 0%;
+ }
+ ul {
+   text-align: right;
+   text-shadow: 0em;
+ } 
+  li {
+   display: inline-block;
+   clip-path: polygon("list");
+   color: crimson; 
+ }
+ nav>ul>li>a {
+ padding: 18px;
+ margin-right: 0;
+ text-transform: uppercase;
+ text-decoration: none;
+ display: block;
+ color: brown;
+ }
+ .navbar {
+     background-image: url("./Images-Medicare/Medicare.jpg");
+ }
+ #services {
+     color: black;
+ }
